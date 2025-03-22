@@ -14,19 +14,18 @@ This project focuses on predicting fraudulent warranty claims using machine lear
 
 📦 warranty-claims-fraud-prediction
 
- ┣ 📜 warranty-claims-fraud-prediction.ipynb   # Jupyter Notebook with model training & evaluation
- ┣ 📂 data                                     # Directory for dataset files
- ┣ 📂 models                                   # Saved models after training
- ┣ 📂 results                                  # Evaluation reports and visualizations
- ┣ 📜 README.md                                # Project documentation
- ┗ 📜 requirements.txt                         # Required dependencies
- 
+   ┣ 📜 warranty-claims-fraud-prediction.ipynb   # Jupyter Notebook with model training & evaluation
+   ┣ 📂 data                                     # Directory for dataset files
+   ┣ 📂 models                                   # Saved models after training
+   ┣ 📂 results                                  # Evaluation reports and visualizations
+   ┣ 📜 README.md                                # Project documentation
+   ┗ 📜 requirements.txt                         # Required dependencies
+  
 ```
 
 ## 🚀 Installation & Setup
 
 1. Clone this repository:
-   ```sh
    git clone https://github.com/ChandraMoon88/warranty-claims-fraud-prediction.git
    cd warranty-claims-fraud-prediction
    ```
