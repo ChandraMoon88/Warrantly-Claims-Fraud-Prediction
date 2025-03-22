@@ -8,22 +8,10 @@ This project focuses on predicting fraudulent warranty claims using machine lear
 - **Dataset**: Contains various features related to warranty claims.
 - **Model**: Machine learning classification model for fraud detection.
 - **Evaluation**: Metrics like accuracy, precision, recall, and F1-score.
-
-
-## 📂 Project Structure
-
-📦 warranty-claims-fraud-prediction
-
-   ┣ 📜 warranty-claims-fraud-prediction.ipynb   # Jupyter Notebook with model training & evaluation
-   ┣ 📂 data                                     # Directory for dataset files
-   ┣ 📂 models                                   # Saved models after training
-   ┣ 📂 results                                  # Evaluation reports and visualizations
-   ┣ 📜 README.md                                # Project documentation
-   ┗ 📜 requirements.txt                         # Required dependencies
   
 ```
 
-## 🚀 Installation & Setup
+🚀 Installation & Setup
 
 1. Clone this repository:
    git clone https://github.com/ChandraMoon88/warranty-claims-fraud-prediction.git
