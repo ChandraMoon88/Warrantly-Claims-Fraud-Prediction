@@ -1,6 +1,3 @@
-Here's a README (`README.md`) file in Markdown format for your project:  
-
-```md
 # Warranty Claims Fraud Prediction
 
 This project focuses on predicting fraudulent warranty claims using machine learning. The model is trained on structured data to distinguish between legitimate and fraudulent claims.
@@ -14,7 +11,9 @@ This project focuses on predicting fraudulent warranty claims using machine lear
 
 ## 📂 Project Structure
 
-```
+
+## 📂 Project Structure
+
 📦 warranty-claims-fraud-prediction
  ┣ 📜 warranty-claims-fraud-prediction.ipynb  # Jupyter Notebook with model training & evaluation
  ┣ 📂 data                                    # Directory for dataset files
@@ -66,13 +65,3 @@ This project focuses on predicting fraudulent warranty claims using machine lear
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork, submit issues, or create pull requests.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-Developed by **Kuncham Chandra Shekar** 🚀
-```
-
-Let me know if you need any modifications! 🚀
